@@ -1,0 +1,11 @@
+{
+  "name": "memorize-e2e-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:angular-course-2018/memorize-e2e-tests.git",
+  "author": "Danny Vernovsky <dvernovsky@interwise.com>",
+  "license": "MIT",
+  "dependencies": {
+    "testcafe": "0.23.2"
+  }
+}
